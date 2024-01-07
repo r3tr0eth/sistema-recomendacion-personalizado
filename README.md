@@ -37,4 +37,4 @@ Abra un Pull Request.
 Este proyecto está bajo la Licencia MIT License - vea el archivo LICENSE.md para más detalles.
 
 ## Contacto
-Tu Nombre - r3tr0_13@proton.me
+RETRO - r3tr0_13@proton.me
