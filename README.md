@@ -8,9 +8,9 @@ Experimentar con diferentes algoritmos de filtrado colaborativo y basado en cont
 Evaluar el rendimiento del sistema usando métricas adecuadas.
 
 ## Tecnologías Utilizadas
-Python
-Bibliotecas de Python como Pandas, NumPy, Scikit-Learn
-(Opcional) Frameworks para aprendizaje profundo como TensorFlow o PyTorch
+- Python
+- Bibliotecas de Python como Pandas, NumPy, Scikit-Learn
+- (Opcional) Frameworks para aprendizaje profundo como TensorFlow o PyTorch
 
 ## Estructura del Proyecto
 
