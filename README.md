@@ -14,9 +14,9 @@ Evaluar el rendimiento del sistema usando métricas adecuadas.
 
 ## Estructura del Proyecto
 
-data/: Directorio para almacenar los conjuntos de datos.
-models/: Contiene los modelos de aprendizaje automático desarrollados.
-utils/: Funciones de utilidad y scripts auxiliares.
+- data/: Directorio para almacenar los conjuntos de datos.
+- models/: Contiene los modelos de aprendizaje automático desarrollados.
+- utils/: Funciones de utilidad y scripts auxiliares.
 
 ## Cómo Contribuir
 Las contribuciones son siempre bienvenidas. Para contribuir:
