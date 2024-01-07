@@ -19,12 +19,17 @@ Evaluar el rendimiento del sistema usando métricas adecuadas.
 - utils/: Funciones de utilidad y scripts auxiliares.
 
 ## Cómo Contribuir
+
 Las contribuciones son siempre bienvenidas. Para contribuir:
 
 Haga un "fork" del repositorio.
+
 Cree su rama de características (git checkout -b feature/AmazingFeature).
+
 Realice sus cambios y haga commit (git commit -m 'Add some AmazingFeature').
+
 Suba su rama (git push origin feature/AmazingFeature).
+
 Abra un Pull Request.
 
 ## Licencia
@@ -32,4 +37,4 @@ Abra un Pull Request.
 Este proyecto está bajo la Licencia MIT License - vea el archivo LICENSE.md para más detalles.
 
 ## Contacto
-Tu Nombre - tuemail@example.com
+Tu Nombre - r3tr0_13@proton.me
