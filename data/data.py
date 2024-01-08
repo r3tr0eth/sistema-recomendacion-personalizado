@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar tus datos
-df = pd.read_csv('data/movies.csv')
+df = pd.read_csv('data/movies2.csv')
 
 # Distribución de Géneros
 print(df['Genre'].value_counts())
